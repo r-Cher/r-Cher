@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQF2_JdAh8VKYg/profile-displaybackgroundimage-shrink_350_1400/0/1677321857311?e=1704326400&v=beta&t=YqQUBqd5HDldYBe5omRH_ngBaaSBaJ6NkbA3LGKa3ME)](https://rishavchanda.io)
+[![MasterHead]()](https://rishavchanda.io)
 <h1 align="center">R-cher Romano</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/r-cher-romano-592802266/">
