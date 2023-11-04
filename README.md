@@ -1,4 +1,4 @@
-[![MasterHead]( )](https://rishavchanda.io)
+[![MasterHead](https://www.syncfusion.com/blogs/wp-content/uploads/2020/08/How-to-Migrate-SQL-Server-in-an-ASP.NET-MVC-Application-to-MySQL-and-PostgreSQL.png)](https://rishavchanda.io)
 <h1 align="center">R-cher Romano</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/r-cher-romano-592802266/">
