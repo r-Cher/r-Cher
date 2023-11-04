@@ -30,7 +30,7 @@
 <p align ="left"><a href="https://www.datacamp.com/statement-of-accomplishment/course/af07f249a35a3bbe520de1a1789b7e6b4d0da416?raw=1">
     <br>Understanding Data Engineering</a><br>
     DataCamp<br>
-     Apr 18, 2022</center><br></p>
+     April 18, 2022</center><br></p>
                    
 
 <p align ="left">
@@ -41,7 +41,7 @@
   <br>Oracle Autonomous Database Certified Specialist 2021</a> <br>
                    Oracle Corporation, Inc.
 <br>
-                    December 16,2021
+                    December 16, 2021
 </center></p>
 
 
