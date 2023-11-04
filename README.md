@@ -1,4 +1,4 @@
-[![MasterHead]()](https://rishavchanda.io)
+[![MasterHead]( )](https://rishavchanda.io)
 <h1 align="center">R-cher Romano</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/r-cher-romano-592802266/">
