@@ -27,6 +27,12 @@
 2020 - Present <br><br></p>
 <h1 align="left">Certifications</h1>
 
+<p align ="left"><a href="https://www.datacamp.com/statement-of-accomplishment/course/af07f249a35a3bbe520de1a1789b7e6b4d0da416?raw=1">
+    <br>Understanding Data Engineering</a><br>
+    DataCamp<br>
+     Apr 18, 2022</center><br></p>
+                   
+
 <p align ="left">
 <a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC2274570&trackId=OCIBF2021&key=ebf5f86ed85cd362a282009cef7965a8db453218"><br>Oracle Cloud Infrastructure Certified Foundations Associate 2021</a> <br>
                    Oracle Corporation, Inc. <br>
@@ -38,9 +44,5 @@
                     December 16,2021
 </center></p>
 
-<p align ="left"><a href="https://www.datacamp.com/statement-of-accomplishment/course/af07f249a35a3bbe520de1a1789b7e6b4d0da416?raw=1">
-    <br>Understanding Data Engineering</a><br>
-    <br>DataCamp<br>
-     Apr 18, 2022</center><br></p>
-                   
+
 
