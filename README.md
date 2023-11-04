@@ -38,9 +38,9 @@
                     December 16,2021
 </center></p>
 
-<p align ="left">
-<a href="https://www.datacamp.com/statement-of-accomplishment/course/af07f249a35a3bbe520de1a1789b7e6b4d0da416?raw=1"</a><br>Understanding Data Engineering<br>
-                   <br>DataCamp<br>
-                   Apr 18, 2022</center><br></p>
+<p align ="left"><a href="https://www.datacamp.com/statement-of-accomplishment/course/af07f249a35a3bbe520de1a1789b7e6b4d0da416?raw=1">
+    <br>Understanding Data Engineering</a><br>
+    <br>DataCamp<br>
+     Apr 18, 2022</center><br></p>
                    
 
