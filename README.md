@@ -27,6 +27,12 @@
 2020 - Present <br><br></p>
 <h1 align="left">Certifications</h1>
 
+<p align ="left"><a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC2274570&trackId=OCI23AIFCA&key=db2b6aef2badef1fec14cf036693a79d0354a367">
+    <br>Oracle Cloud Infrastructure AI 2023 Certified Foundations Associate</a><br>
+     Oracle Corporation, Inc<br>
+     November 05,2023 </center><br></p>
+                   
+
 <p align ="left"><a href="https://www.datacamp.com/statement-of-accomplishment/course/af07f249a35a3bbe520de1a1789b7e6b4d0da416?raw=1">
     <br>Understanding Data Engineering</a><br>
     DataCamp<br>
