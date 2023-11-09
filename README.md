@@ -27,6 +27,11 @@
 2020 - Present <br><br></p>
 <h1 align="left">Certifications</h1>
 
+<p align ="left"><a href="https://www.datacamp.com/statement-of-accomplishment/course/8b2240997abdcb0c066ab4e6c1e7c61677171ab1?raw=1">
+    <br>Introduction to ChatGPT</a><br>
+    DataCamp<br>
+     November 07, 2023</center><br></p>
+
 <p align ="left"><a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC2274570&trackId=OCI23AIFCA&key=db2b6aef2badef1fec14cf036693a79d0354a367">
     <br>Oracle Cloud Infrastructure AI 2023 Certified Foundations Associate</a><br>
      Oracle Corporation, Inc<br>
