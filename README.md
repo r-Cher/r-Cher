@@ -24,7 +24,7 @@
 <p align="left">Science, Technology, Engineering and Mathematics (SHS) | New Era University <br>
 2018 - 2020 <br></p>
 <p align="left">Bachelor of Science in Information Technology | New Era University <br>
-2020 - Present <br><br></p>
+2020 - 2024 <br><br></p>
 <h1 align="left">Certifications</h1>
 
 <p align ="left"><a href="https://www.datacamp.com/statement-of-accomplishment/course/8b2240997abdcb0c066ab4e6c1e7c61677171ab1?raw=1">
